@@ -1,0 +1,13 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csprojAssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.genruntimeconfig.cache
