@@ -7,7 +7,7 @@ namespace DaysOfWeek
         static void Main(string[] args)
         {
             var DiasSemana = DateTime.Now.DayOfWeek; 
-
+            string g;
 
             if (DiasSemana == DayOfWeek.Sunday)
             {
@@ -36,7 +36,8 @@ namespace DaysOfWeek
             else if (DiasSemana == DayOfWeek.Saturday)
             {  
               Console.WriteLine($"Today is: {DayOfWeek.Saturday}");
-        }   }
-        
+            }
+            Console.WriteLine("Good Week");
+        }   
     }
 }
